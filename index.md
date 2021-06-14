@@ -1,5 +1,5 @@
 ---
-title: "Welcome"
+title: "Welcome to Julie's Website!"
 ---
 
 I'm glad you are here. I hope you get to know me a bit better through this website!
