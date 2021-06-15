@@ -4,4 +4,5 @@ title: "Welcome to Julie's Website!"
 ---
 
 Hello! My name is Julie Kim and I hope you get to know me a bit better through this website!
-[IMG_7623.heic.pdf](https://github.com/juliekim1/github-pages-with-jekyll/files/6651853/IMG_7623.heic.pdf)
+![Screen Shot 2021-06-14 at 8 07 38 PM](https://user-images.githubusercontent.com/84786438/121973959-6293e400-cd4c-11eb-855a-347f16f5ea0e.png)
+
