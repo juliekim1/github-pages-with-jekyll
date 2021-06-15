@@ -1,4 +1,4 @@
-Welcome to Julie's Blog!
+Welcome to Julie Kim's Blog!
 ---
 
 Hello! My name is Julie Kim and I hope you get to know me a bit better through this website!
