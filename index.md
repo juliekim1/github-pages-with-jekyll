@@ -1,5 +1,5 @@
 ---
-Welcome to Julie's Blog
+title: Welcome to Julie's Blog
 ---
 
 Hello! My name is Julie Kim and I hope you get to know me a bit better through this website!
